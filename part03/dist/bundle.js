@@ -1,0 +1,1 @@
+!function(){"use strict";console.log(579),console.log("mango"),console.log("666");var o={name:"fire",age:55};console.log(o),o.age=18,console.log(o)}();
